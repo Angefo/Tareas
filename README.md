@@ -4,10 +4,10 @@ Este proyecto realiza un análisis de sentimientos binario (`Recommended` o `Not
 ## Estructura del proyecto
 
 steam_sentiment_project/
-├── main.py
-├── README.md
-├── Proyecto - Topicos especiales II - Andreas Gehrts.ipynb.ipynb
-└── requirements.txt
+├── Topicos especiales II
+  └── README.md
+  └── Proyecto - Topicos especiales II - Andreas Gehrts.ipynb.ipynb
+  └── requirements.txt
 
 ## 🚀 Cómo ejecutar
 
