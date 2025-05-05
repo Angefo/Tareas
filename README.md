@@ -9,7 +9,7 @@ steam_sentiment_project/
 ├── Proyecto - Topicos especiales II - Andreas Gehrts.ipynb.ipynb
 └── requirements.txt
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 1. Descargar ipynb
 2. Crear un environment propio
