@@ -7,8 +7,7 @@ steam_sentiment_project/
 ├── main.py
 ├── README.md
 ├── Proyecto - Topicos especiales II - Andreas Gehrts.ipynb.ipynb
-├── requirements.txt
-└── Steam_dataset.zip (opcional, base de datos extraido online desde kaggle)
+└── requirements.txt
 
 ## 🚀 Cómo ejecutar
 
